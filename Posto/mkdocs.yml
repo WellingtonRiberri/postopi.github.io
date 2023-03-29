@@ -1,0 +1,9 @@
+site_name: Posto de Saúde 
+site_author: Equipe 2 
+
+theme:
+  name: material
+  favicon: images/sus.png
+  palette: 
+    primary: white 
+  logo: images/coração.gif
